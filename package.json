@@ -1,7 +1,7 @@
 {
   "name": "crystal-block",
   "main": "./lib/crystal-block",
-  "version": "0.3.5",
+  "version": "0.4.0",
   "description": "Atom highlight matching crystal block",
   "keywords": [
     "crystal",
